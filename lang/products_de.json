@@ -1,0 +1,20 @@
+{
+    "2":{
+        "name":"Google Play Guthaben",
+        "worth":"15",
+        "price":"20",
+        "currency":"€",
+        "des":"Bei Google Play kannst du in mehr als 1 Million Android-Apps und -Spielen stöbern. Auf der Plattform findest du unter anderem beliebte Games wie Clash Royale und Pokémon Go. Dein Gutscheincode ist gültig für alle Apps, Filme, Musik und noch vieles mehr.",
+        "info":"Wir werden dir den Code per E-Mail zu stellen",
+        "warn":"Sei dir sicher, dass du mit einer funktionierenden E-Mail angemeldet bist"
+    },
+    "1":{
+        "name":"ITunes Guthabenkarte",
+        "worth":"15",
+        "price":"20",
+        "currency":"€",
+        "des":"Eine Karte erhält eine Welt voller Unterhaltung. Millionen von Apps aus dem App Store. Zugriff auf bahnbrechende Spiele in Apple Arcade. Über 60 Millionen Songs mit Apple Music. Exklusiv produzierte Serien und Filme mit Apple TV+. Und eine unglaubliche Auswahl an Büchern und Hörbüchern von Apple Books.",
+        "info":"Wir werden dir den Code per E-Mail zu stellen",
+        "warn":"Sei dir sicher, dass du mit einer funktionierenden E-Mail angemeldet bist"
+    }
+}

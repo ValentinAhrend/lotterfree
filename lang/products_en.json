@@ -1,0 +1,20 @@
+{
+    "2":{
+        "name":"Google Play Card",
+        "worth":"15",
+        "price":"20",
+        "currency":"€",
+        "des":"In Google Play you can check out more than 1 million Android-Apps and -Games. On the platform you find popular games like Clash Royale and Pokémon Go. This Giftcard is available for all apps, films, music and much more.",
+        "info":"We will send you the code per email",
+        "warn":"Be sure that you are signed in with a working email"
+    },
+    "1":{
+        "name":"ITunes card",
+        "worth":"15",
+        "price":"20",
+        "currency":"€",
+        "des":"A card contains a world filled with entertaiment. Millions of apps form the App Store. Acces to facinating games in Apple Arcade. Over 60 millionen songs with Apple Music. Exclusiv produced series and films with Apple TV+. And an incredible selection of books and podcasts with Apple Books.",
+        "info":"We will send you the code per email",
+        "warn":"Be sure that you are signed in with a working email"
+    }
+}

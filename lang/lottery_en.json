@@ -1,0 +1,8 @@
+{
+    "l1":{
+        "name":"ColorLottery",
+        "chance":"0,0002%",
+        "des":"Choose your own color and test your luck",
+        "wer":"In the end the Winner-Color will be published"
+    }
+}
